@@ -1,4 +1,4 @@
-package codewars.omuras;
+﻿package codewars.omuras;
 
 import org.apache.commons.lang3.StringUtils;
 
